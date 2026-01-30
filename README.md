@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1146066535.svg)](https://doi.org/10.5281/zenodo.18434612)
+
 # BeyondGRQNMs
 Shifts and fits to various beyond-GR quasinormal mode frequencies
 
